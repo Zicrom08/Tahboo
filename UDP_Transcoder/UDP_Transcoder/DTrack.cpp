@@ -66,6 +66,7 @@
 
 #include "DTrack.hpp"
 
+using namespace Dtrack;
 
 // Local error codes:
 
