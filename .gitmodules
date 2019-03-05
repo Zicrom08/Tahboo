@@ -1,0 +1,4 @@
+[submodule "human_animation/human_animation"]
+	path = human_animation/human_animation
+	url = git@github.com:Pcornat/TAHBOO_HumanAnimation.git
+	branch = master
